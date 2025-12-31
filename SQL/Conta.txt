@@ -1,0 +1,6 @@
+conta_user(
+	id
+	nome_user
+	email
+	senha	
+);
